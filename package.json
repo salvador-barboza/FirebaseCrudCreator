@@ -1,0 +1,10 @@
+{
+  "name": "firebase-crud-creator",
+  "version": "0.1.0",
+  "description": "Utility to have type safe firebase crud",
+  "license": "MIT",
+  "author": "Salvador Barboza Portillo",
+  "peerDependencies": {
+    "firebase": "6.0.2"
+  }
+}
